@@ -1,5 +1,7 @@
 # weather-cli
 
+![Pipeline Diagram](pipeline-diagram.png)
+
 A simple Rust CLI tool that fetches current weather for any city using the **Open-Meteo** API (no API key required).
 
 Built entirely by **Hermes Agent** (Nous Research) — a local LLM-powered coding agent — using a 7-phase agentic pipeline with MCP-integrated LSP tooling.
